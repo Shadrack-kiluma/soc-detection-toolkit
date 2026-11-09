@@ -72,4 +72,3 @@ Use only telemetry you are authorized to handle. Keep real identity data out of 
 ## License
 
 MIT. See [`LICENSE`](LICENSE).
-
